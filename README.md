@@ -44,8 +44,10 @@ With the following software and hardware list you can run all code files present
 
 | Chapter       | Software required                   | OS required                        |
 | --------      | ------------------------------------| -----------------------------------|
-| All Chapters  | Samba 4.x Server Software           | Windows                            |
-
+|2-20	          | Python 2.7/3.5, SciPy 0.18,	        |Windows, Mac OS X, and Linux (Any)  |
+|               |  Numpy 1.11+, Matplotlib 2.0,	      |                                    |
+|               | ScikitLearn 0.18+, 	                |                                    |
+|	              |Gensim, Keras 2+                     |                                    |
 
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/9781789346411_ColorImages.pdf).
@@ -64,4 +66,4 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
->>>>>>> refs/remotes/PacktPublishing/master
+

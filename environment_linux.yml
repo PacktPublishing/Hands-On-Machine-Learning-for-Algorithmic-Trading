@@ -72,7 +72,7 @@ dependencies:
   - freeglut=3.0.0
   - freetype=2.9.1
   - fribidi=1.0.5
-  - ftfy=4.4.3
+  - ftfy=5.5.1
   - funcy=1.12
   - furl=2.0.0
   - future=0.17.1
